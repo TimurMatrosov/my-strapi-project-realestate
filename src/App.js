@@ -4,16 +4,15 @@ import Homepage from './pages/Homepage';
 import Cart from './pages/Cart';
 import SiteHead from './components/SiteHead';
 import { CartProvider } from './context/CartContext';
-import './index.css'; // Ensure you import the CSS file
+import './index.css';
 
 function App() {
   return (
     <CartProvider>
-      <Router>
+      <Router basename="/my-strapi-project-realestate">
         <div className="container">
           <header>
-            
-            
+            {/* Your header content */}
           </header>
           <div className="text">
             <SiteHead />
