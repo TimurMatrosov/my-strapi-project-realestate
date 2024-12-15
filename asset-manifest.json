@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/my-strapi-project-realestate/static/css/main.01bbc48e.css",
+    "main.js": "/my-strapi-project-realestate/static/js/main.fe63bee6.js",
+    "index.html": "/my-strapi-project-realestate/index.html",
+    "main.01bbc48e.css.map": "/my-strapi-project-realestate/static/css/main.01bbc48e.css.map",
+    "main.fe63bee6.js.map": "/my-strapi-project-realestate/static/js/main.fe63bee6.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.01bbc48e.css",
+    "static/js/main.fe63bee6.js"
+  ]
+}
