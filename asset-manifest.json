@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/my-strapi-project-realestate/static/css/main.01bbc48e.css",
-    "main.js": "/my-strapi-project-realestate/static/js/main.fe63bee6.js",
+    "main.css": "/my-strapi-project-realestate/static/css/main.ce960199.css",
+    "main.js": "/my-strapi-project-realestate/static/js/main.d3583a94.js",
     "index.html": "/my-strapi-project-realestate/index.html",
-    "main.01bbc48e.css.map": "/my-strapi-project-realestate/static/css/main.01bbc48e.css.map",
-    "main.fe63bee6.js.map": "/my-strapi-project-realestate/static/js/main.fe63bee6.js.map"
+    "main.ce960199.css.map": "/my-strapi-project-realestate/static/css/main.ce960199.css.map",
+    "main.d3583a94.js.map": "/my-strapi-project-realestate/static/js/main.d3583a94.js.map"
   },
   "entrypoints": [
-    "static/css/main.01bbc48e.css",
-    "static/js/main.fe63bee6.js"
+    "static/css/main.ce960199.css",
+    "static/js/main.d3583a94.js"
   ]
 }
