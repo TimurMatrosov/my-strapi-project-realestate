@@ -21,7 +21,6 @@ export default function Homepage() {
   return (
     <div className="container">
       <div className="header">
-        <img src="/logo.png" alt="Logo" className="logo" />
       </div>
       <div className="cart-link">
         <Link to="/cart">
